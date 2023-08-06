@@ -46,8 +46,8 @@ buttonEncrypt.addEventListener("click", function (e) {
   }
 });
 buttonDecrypt.addEventListener("click", function (e) {
-  inputText.value = Decrypt(inputText.value);
   divSuccess.innerHTML = "";
+  divSuccess.innerHTML = Decrypt(inputText.value);
 });
 buttonCopy.addEventListener("click", function (e) {
   const range = document.createRange();
