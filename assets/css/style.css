@@ -206,6 +206,7 @@ button {
 button:hover {
   color: #150578;
   background-color: #fff;
+  border: 1px solid #150578;
 }
 
 /* Estilos para la sección de cifrado de mensajes */
@@ -221,8 +222,9 @@ button:hover {
   box-sizing: border-box;
 }
 
-.messageEncryption h4 {
-  font-size: 1.8rem;
+#divMsj {
+  font-size: 1.5rem;
+  font-weight: 200;
 }
 
 .messageEncryption p {
