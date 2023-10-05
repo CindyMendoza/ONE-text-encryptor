@@ -4,24 +4,21 @@ Este proyecto se centra en la encriptación y desencriptación de texto en espa�
 
 ## Cómo Funciona
 
-El proceso de encriptación implica la transformación de las vocales del texto original en un patrón específico. Este texto encriptado puede ser desencriptado nuevamente para obtener el texto original, garantizando la seguridad y confidencialidad de los datos.
+El proceso de encriptación implica la transformación de las vocales del texto original en un patrón específico. Este texto encriptado puede ser desencriptado nuevamente para obtener el texto original, simulando la seguridad y confidencialidad de los datos.
 
-## Uso
+## Cómo Encriptar
 
-Para encriptar un texto en español, simplemente ingresa el texto en el archivo de entrada correspondiente y ejecuta el programa. El resultado será el texto encriptado. Para desencriptar, ingresa el texto encriptado y obtén el texto original como salida.
+1. Ingresa el texto que deseas encriptar en la sección "Ingrese texto aquí".
+2. Haz clic en el botón "Encriptar".
+3. El texto encriptado aparecerá a tu derecha.
+4. Haz clic en el botón "Copiar" para copiar el texto encriptado y usarlo según tu conveniencia.
 
-```python
-# Ejemplo de Uso en Python
+## Cómo Desencriptar
 
-# Encriptar texto
-texto_original = "Hola, mundo."
-texto_encriptado = encriptar(texto_original)
-print("Texto Encriptado:", texto_encriptado)
+1. Haz clic en el botón "Desencriptar".
+2. El texto original aparecerá, listo para su uso.
 
-# Desencriptar texto
-texto_desencriptado = desencriptar(texto_encriptado)
-print("Texto Desencriptado:", texto_desencriptado)
-```
+Puedes ingresar al proyecto [aquí](https://cindymendoza.github.io/ONE-text-encryptor/).
 
 ## Contribuciones
 
