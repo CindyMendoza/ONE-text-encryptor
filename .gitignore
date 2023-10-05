@@ -1,0 +1,65 @@
+# Archivos temporales y de respaldo
+*~
+*.swp
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Directorios específicos
+/node_modules/
+/build/
+/dist/
+
+# Archivos de configuración
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Dependencias y paquetes de gestión de paquetes
+/package-lock.json
+/yarn.lock
+
+# Archivos de compilación y resultados de pruebas
+/build/
+/coverage/
+
+# Entornos específicos o archivos de configuración local
+/local-config.json
+
+# Editor específico
+.idea/
+.vscode/
+
+# Logs y archivos generados por el sistema
+/log/
+/tmp/
+
+# Archivos de caché y datos temporales
+.cache/
+
+# Para proyectos Python, archivos de byte-compiled
+__pycache__/
+*.pyc
+*.pyo
+
+# Para proyectos Java, archivos compilados
+*.class
+
+# Para proyectos.NET
+*.dll
+*.exe
+*.pdb
+*.log
+*.suo
+*.user
+*.sln.docstates
+
+# Para proyectos Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
