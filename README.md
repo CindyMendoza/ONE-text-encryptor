@@ -26,4 +26,4 @@ Puedes ingresar al proyecto [aquí](https://cindymendoza.github.io/ONE-text-encr
 
 ## Licencia
 
-Este proyecto está licenciado bajo la [Licencia MIT](LICENSE) - consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/CindyMendoza/ONE-text-encryptor/blob/main/LICENSE.txt) - consulta el archivo LICENSE para más detalles.
